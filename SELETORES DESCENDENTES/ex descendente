@@ -1,0 +1,39 @@
+<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>seletor descendente</title>
+  <style>
+    
+    div * {
+      color: blue; 
+    }
+
+    .section2 ul li {
+      background-color: green; 
+      text-color: white; 
+    }
+  </style>
+</head>
+<body>
+
+  
+  <div class="container">
+    <section class="section1">
+      <p>Olá</p>
+      <p>Tudo bem?</p>
+      <p>Qual seu nome?</p>
+    </section>
+
+    <section class="section2">
+      <ul>
+        <li>Cumprimento 1</li>
+        <li>Cumprimento 2</li>
+        <li>Cumprimento 3</li>
+      </ul>
+    </section>
+  </div>
+
+</body>
+</html>

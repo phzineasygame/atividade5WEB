@@ -1,0 +1,25 @@
+<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>seletor_irmao</title>
+  <style>
+    h1 ~ p {
+      color: green;
+    }
+
+    h2 + p {
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Começo</h1>
+  <p>meio 1</p>
+  <h2>meio 2</h2>
+  <p>Fim</p>
+
+</body>
+</html>
