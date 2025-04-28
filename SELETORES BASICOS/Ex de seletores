@@ -1,0 +1,50 @@
+<html>
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    
+    <header>
+      <div class= "cabecalho"
+           </div>
+      <h1>
+        Barcelona campeão da Copa Do Rei!
+        
+      </h1>
+      </header>
+    
+    <main>
+      <p>
+        Em uma final extremamente alucinante, com direito a gol na prorrogação, o Barcelona se consagra campeão.
+        
+      </p>
+     <hr>
+      
+      <p>
+     Pedri marcou o primeiro golaço do Barcelona aos 28 minutos do primeiro tempo, e no segundo tempo, foram marcados gols de Mbappé e Tchouameni, resultando no 2x1, mas nos 84, Ferrán Torres empata e leva para a prorrogação. 
+        
+      </p>
+      
+    </main>
+    
+    <footer>
+      <div class= "rodape"
+           </div>
+      <p>
+       Com uma prorrogação acirrada, Koundé marca aos 116 minutos para dar a vitória ao Barcelona, que já levantou 32 taças da copa do rei. 
+      </p>
+      <hr>
+      
+      <p id= "last-content">
+        leia mais sobre as notícias do futebol na nossa página oficial: www.futebolnossoesporte.com.br</p>
+      
+    </footer>
+    
+    
+  </body>
+  </html>
